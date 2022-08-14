@@ -1,0 +1,23 @@
+{
+  "name": "nodefundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimebruce/nodeCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimebruce/nodeCourse/issues"
+  },
+  "homepage": "https://github.com/dimebruce/nodeCourse#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
